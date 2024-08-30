@@ -1,18 +1,5 @@
 # Changelog
 
-## [5.5.0](https://github.com/ZuCommunications/php-unit-report-generator-bundle/compare/v5.4.0...v5.5.0) (2024-08-30)
-
-
-### Features
-
-* add ability to generate release via workflow trigger ([a18d522](https://github.com/ZuCommunications/php-unit-report-generator-bundle/commit/a18d5225d1e1a0959056ffea41da3608671c4473))
-
-
-### Miscellaneous
-
-* include standard templates ([008e2ba](https://github.com/ZuCommunications/php-unit-report-generator-bundle/commit/008e2ba15d87bba5a908b2f2d0a10304bd846d92))
-* update to symfony 6.4 ([88470f6](https://github.com/ZuCommunications/php-unit-report-generator-bundle/commit/88470f602c28bde9cea021685423c11900f47e13))
-
 ## 5.4.0 (2024-08-30)
 
 
